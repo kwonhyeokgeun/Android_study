@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="button">Button</string>
+    <string name="추가">추가</string>
+    <string name="전화번호">010-0000-0000</string>
+    <string name="이름">이름</string>
+    <string name="전화번호2">전화번호</string>
+</resources>
