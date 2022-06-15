@@ -1,8 +1,10 @@
-# Android_study
+https://khg-project.tistory.com/52
 
-깃허브 올리는 법
-1. VCS에서 import into version control에서 Create Git Repogitory   
-2. VCS - git - Remote에서 깃허브 주소 설정   
-3. commit   
-4. VCS - git - branches에서 브랜치 만들고 checkout   
-5. push
+![image](https://user-images.githubusercontent.com/49871871/173872317-687c71d8-629f-48a0-baee-ad569d086819.png)
+
+
+![image](https://user-images.githubusercontent.com/49871871/173872347-19380c0c-3ca5-4310-b006-f098f0cbd1e9.png)
+
+![image](https://user-images.githubusercontent.com/49871871/173872377-6847c1ef-3494-4d0b-a3f8-06655fbadb3e.png)
+
+
